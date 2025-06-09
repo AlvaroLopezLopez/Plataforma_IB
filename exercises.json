@@ -1,0 +1,534 @@
+[
+  {
+    "numero": 1,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "An arithmetic sequence has $u_1= 40$, $u_2 = 32$, $u_3 = 24$.\n\n1. Find the common difference, $d$. [2]\n2. Find $u_8$. [2]\n3. Find $S_8$. [2]"
+  },
+  {
+    "numero": 2,
+    "max_puntacion": 6,
+    "calculator": false,
+    "difficulty": "easy",
+    "enunciado_md": "Consider a geometric sequence with $a_1 = 8$ and $a_4=1$.\n\n1. Find the common ratio, $r$.[2]\n\nConsider the following probability function for a random variable $X$:\n\n![table](./Sequences & Series_files/table.png)\n\n2. Find the value of $k$.[4]"
+  },
+  {
+    "numero": 3,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "Jeremy invests $8000$ \\$ into a savings account that pays an annual interest rate of $5.5$ %, **compounded annually**.\n\n1. Write down a formula which calculates that total value of the\n   investment after $n$ years. [2]\n2. Calculate the amount of money in the savings account after:\n\n   1. $1$ year;\n   2. $3$ years. [2]\n3. Jeremy wants to use the money to put down a $10000$ \\$\n   deposit on an apartment. Determine if Jeremy will be able to do this\n   within a $5$-year timeframe.[2]"
+  },
+  {
+    "numero": 4,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "Only one of the following four sequences is arithmetic and only one of them is geometric.\n\n$\\begin{array}{rcccccl} a_n &=& \\dfrac{1}{3},\\,\\dfrac{1}{4},\\,\\dfrac{1}{5},\\,\\dfrac{1}{6},\\,\\dots &\\,\\hspace{4em}\\,& c_n &=& 3,\\,1,\\,\\dfrac{1}{3},\\,\\dfrac{1}{9},\\,\\dots \\\\[12pt] b_n &=& 2.5,\\,5,\\,7.5,\\,10,\\,\\dots &\\,\\hspace{4em}\\,& d_n &=& 1,\\,3,\\,6,\\,10,\\,\\dots \\end{array}$\n\n1. State which sequence is arithmetic and find the common difference of\n   the sequence. [2]\n2. State which sequence is geometric and find the common ratio of the\n   sequence.[2]\n3. For the **geometric** sequence find the **exact** value of the sixth\n   term. Give your answer as a fraction. [2]"
+  },
+  {
+    "numero": 5,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "Only one of the following four sequences is arithmetic and only one of them is geometric.\n\n$\\begin{array}{rcccccl} a_n &=& 1,\\,5,\\,10,\\,15,\\,\\dots &\\,\\hspace{4em}\\,& c_n &=& 1.5,\\,3,\\,4.5,\\,6,\\,\\dots \\\\[12pt] b_n &=& \\dfrac{1}{2},\\,\\dfrac{2}{3},\\,\\dfrac{3}{4},\\,\\dfrac{4}{5},\\,\\dots &\\,\\hspace{4em}\\,& d_n &=& 2,\\,1,\\,\\dfrac{1}{2},\\,\\dfrac{1}{4},\\,\\dots \\end{array}$\n\n1. State which sequence is arithmetic and find the common difference of\n   the sequence. [2]\n2. State which sequence is geometric and find the common ratio of the\n   sequence.[2]\n3. For the **geometric** sequence find the **exact** value of the\n   eighth term. Give your answer as a fraction. [2]"
+  },
+  {
+    "numero": 6,
+    "max_puntacion": 4,
+    "calculator": false,
+    "difficulty": "easy",
+    "enunciado_md": "A geometric series has a common ratio of $3^x$.\n\n1. State the domain of $x$ such that the sum to infinity of the series exists. [2]\n2. sum to infinity of the series is found to be $54$. If the first term of the series is $52$, find $x$. [2]"
+  },
+  {
+    "numero": 7,
+    "max_puntacion": 6,
+    "calculator": false,
+    "difficulty": "easy",
+    "enunciado_md": "Consider an arithmetic sequence $2,6,10,14,\\dots$\n\n1. Find the common difference, $d$. [2]\n2. Find the $10$th term in the sequence. [2]\n3. Find the sum of the first $10$ terms in the sequence. [2]"
+  },
+  {
+    "numero": 8,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "The fifth term, $u_5$, of a geometric sequence is $125$. The sixth term, $u_6$, is $156.25$.\n\n1. Find the common ratio of the sequence. [2]\n2. Find $u_1$, the first term of the sequence. [2]\n3. Calculate the sum of the first $12$ terms of the sequence.\n   [2]"
+  },
+  {
+    "numero": 9,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "Hannah buys a car for $24900$ \\$. The value of the car depreciates by $16$ % each year.\n\n1. Find the value of the car after $10$ years. [3]\n\nPatrick buys a car for $12000$ \\$. The car depreciates by a fixed percentage each year, and after $6$ years it is worth $6200$ \\$.\n\n2. Find the annual rate of depreciation of the car.\n   [3]"
+  },
+  {
+    "numero": 10,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "Consider the infinite geometric sequence $9000$, $-7200$, $5760$, $-4608$, ...\n\n1. Find the common ratio. [2]\n2. Find the $25$th term. [2]\n3. Find the **exact** sum of the infinite sequence. [2]"
+  },
+  {
+    "numero": 11,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "Consider the infinite geometric sequence $4480$, $-3360$, $2520$, $-1890,\\dots$\n\n1. Find the common ratio, $r$. [2]\n2. Find the $20$th term. [2]\n3. Find the **exact** sum of the infinite sequence. [2]"
+  },
+  {
+    "numero": 12,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "A $3$D printer builds a set of $49$ Ei$\\text{f}$fel Tower Replicas in different sizes. The height of the largest tower in this set is $64$ cm. The heights of successive smaller towers are $95$ % of the preceding larger tower, as shown in the diagram below.\n\n![AA724a](./Sequences & Series_files/AA724a.PNG)\n\n1. Find the height of the smallest tower in this set. [3]\n2. Find the **total** height if all $49$ towers were placed one on top\n   of another. [3]"
+  },
+  {
+    "numero": 13,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "A tennis ball bounces on the ground $n$ times. The heights of the bounces, $h_1, h_2, h_3, \\dots,h_n,$ form a geometric sequence. The height that the ball bounces the first time, $h_1$, is $80$ cm, and the second time, $h_2$, is $60$ cm.\n\n1. Find the value of the common ratio for the sequence. [2]\n2. Find the height that the ball bounces the tenth time, $h_{10}$.\n   [2]\n3. Find the **total distance** travelled by the ball during the first\n   six bounces (up and down). Give your answer correct to $2$ decimal\n   places. [2]"
+  },
+  {
+    "numero": 14,
+    "max_puntacion": 7,
+    "calculator": false,
+    "difficulty": "easy",
+    "enunciado_md": "An arithmetic sequence is given by $3$, $5$, $7,\\dots$\n\n1. Write down the value of the common difference, $d$. [1]\n2. Find\n\n   1. $u_{10}$;\n   2. $S_{10}$. [4]\n3. Given that $u_n = 253$, find the value of $n$. [2]"
+  },
+  {
+    "numero": 15,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "The fourth term, $u_4$, of a geometric sequence is $135$. The fifth term, $u_5$, is $81$.\n\n1. Find the common ratio of the sequence. [2]\n2. Find $u_1$, the first term of the sequence. [2]\n3. Calculate the sum of the first $20$ terms of the sequence.\n   [2]"
+  },
+  {
+    "numero": 16,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "The fifth term, $u_5$, of an arithmetic sequence is $25$. The eleventh term, $u_{11}$, of the same sequence is $49$.\n\n1. Find $d$, the common difference of the sequence. [2]\n2. Find $u_1$, the first term of the sequence. [2]\n3. Find $S_{100}$, the sum of the first $100$ terms of the sequence.\n   [2]"
+  },
+  {
+    "numero": 17,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "The table shows the first four terms of three sequences: $u_n$, $v_n$, and $w_n$.\n\n![c39694c1cf7513ffce115791e6b0f1c54c230963.svg](./Sequences & Series_files/c39694c1cf7513ffce115791e6b0f1c54c230963.svg)\n\n1. State which sequence is\n\n   1. arithmetic;\n   2. geometric. [2]\n2. Find the sum of the first $50$ terms of the arithmetic sequence.\n   [2]\n3. Find the exact value of the $13$th term of the geometric sequence.\n   [2]"
+  },
+  {
+    "numero": 18,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "The third term, $u_3$, of an arithmetic sequence is $7$. The common difference of the sequence, $d$, is $3$.\n\n1. Find $u_1$, the first term of the sequence. [2]\n2. Find $u_{60}$, the $60$th term of sequence. [2]\n\nThe first and fourth terms of this arithmetic sequence are the first two terms of a geometric sequence.\n\n3. Calculate the sixth term of the **geometric** sequence.\n   [2]"
+  },
+  {
+    "numero": 19,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "Julia wants to buy a house that requires a deposit of $74\\hspace{0.15em}000$ Australian dollars (AUD).\n\nJulia is going to invest an amount of AUD in an account that pays a nominal annual interest rate of $5.5$ %, **compounded monthly**.\n\n1. Find the amount of AUD Julia needs to invest to reach\n   $74\\hspace{0.15em}000$ AUD after $8$ years. Give your answer correct\n   to **the nearest dollar**. [3]\n\nJulia's parents offer to add $5000$ AUD to her initial investment from part (a), however, only if she invests her money in a more reliable bank that pays a nominal annual interest rate only of $3.5$ %, **compounded quarterly**.\n\n2. Find the number of years it would take Julia to save the\n   $74\\hspace{0.15em}000$ AUD if she accepts her parents money and\n   follows their advice. Give your answer correct to **the nearest\n   year**. [3]"
+  },
+  {
+    "numero": 20,
+    "max_puntacion": 7,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "The first three terms of a geometric sequence are $u_1 = 0.4$, $u_2 = 0.6$, $u_3 = 0.9$.\n\n1. Find the value of the common ratio, $r$. [2]\n2. Find the sum of the first ten terms in the sequence. [2]\n3. Find the greatest value of $n$ such that $S_n < 650$. [3]"
+  },
+  {
+    "numero": 21,
+    "max_puntacion": 6,
+    "calculator": false,
+    "difficulty": "easy",
+    "enunciado_md": "Consider the following sequence of figures.\n\n![AA008](./Sequences & Series_files/AA008.PNG)\n\nFigure 1 contains $6$ line segments.\n\n1. Given that Figure $n$ contains $101$ line segments, show that\n   $n = 20$.[3]\n2. Find the total number of line segments in the first $20$ figures.\n   [3]"
+  },
+  {
+    "numero": 22,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "On $1$st of January $2021$, Fiona decides to take out a bank loan to purchase a new Tesla electric car. Fiona takes out a loan of $P$ \\$ with a bank that offers a nominal annual interest rate of $2.6\\hspace{0.05em}\\%$, **compounded monthly**.\n\nThe size of Fiona's loan **at the end of each year** follows a geometric sequence with common ratio, $\\alpha$.\n\n1. Find the value of $\\alpha$, giving your answer to five significant\n   figures. [3]\n\nThe bank lets the size of Fiona's loan increase until it becomes **triple** the size of the original loan. Once this happens, the bank demands that Fiona pays the entire amount back to close the loan.\n\n2. Find the year during which Fiona will need to pay back the\n   loan. [3]"
+  },
+  {
+    "numero": 23,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "**In this question give all answers correct to the nearest whole number.**\n\nA population of goats on an island starts at $232$. The population is expected to increase by $15$ % each year.\n\n1. Find the expected population size after:\n\n   1. $10$ years;\n   2. $20$ years. [4]\n2. Find the number of years it will take for the population to reach\n   $15\\hspace{0.15em}000$. [2]"
+  },
+  {
+    "numero": 24,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "The first term of an arithmetic sequence is $24$ and the common difference is $16$.\n\n1. Find the value of the $62$nd term of the\n   sequence. [2]\n\nThe first term of a geometric sequence is $8$. The $4$th term of the geometric sequence is equal to the $13$th term of the arithmetic sequence given above.\n\n2. Write down an equation using this information. [2]\n3. Calculate the common ratio of the geometric sequence.\n   [2]"
+  },
+  {
+    "numero": 25,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "In an arithmetic sequence, $u_5 = 24$, $u_{13} = 80$.\n\n1. Find the common difference. [2]\n2. Find the first term. [2]\n3. Find the sum of the first $20$ terms in the sequence. [2]"
+  },
+  {
+    "numero": 26,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "**In this question give all answers correct to two decimal places.**\n\nMia deposits $4000$ Australian dollars (AUD) into a bank account. The bank pays a nominal annual interest rate of $6$ %, **compounded semi-annually**.\n\n1. Find the amount of **interest** that Mia will earn over the next\n   $2.5$ years. [3]\n\nElla also deposits AUD into a bank account. Her bank pays a nominal annual $\\text{interest}$ rate of $4$ %, **compounded monthly**. In $2.5$ years, the total amount in Ella's account will be $4000$ AUD.\n\n2. Find the amount that Ella deposits in the bank account.\n   [3]"
+  },
+  {
+    "numero": 27,
+    "max_puntacion": 5,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "Maria invests $25000$ \\$ into a savings account that pays a nominal annual interest rate of $4.25$%, **compounded monthly**.\n\n1. Calculate the amount of money in the savings account after $3$\n   years. [2]\n2. Calculate the number of years it takes for the account to reach\n   $40000$ \\$. [3]"
+  },
+  {
+    "numero": 28,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "On Gary's $50$th birthday, he invests $P$ \\$ in an account that pays a nominal annual interest rate of $5$ %, **compounded monthly**.\n\nThe amount of money in Gary's account **at the end of each year** follows a geometric sequence with common ratio, $\\alpha$.\n\n1. Find the value of $\\alpha$, giving your answer to four significant\n   figures. [3]\n\nGary makes no further deposits or withdrawals from the account.\n\n2. Find the age Gary will be when the amount of money in his\n   account will be **double** the amount he invested. [3]"
+  },
+  {
+    "numero": 29,
+    "max_puntacion": 7,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "In an arithmetic sequence, the third term is $41$ and the ninth term is $23$.\n\n1. Find the common difference. [2]\n2. Find the first term. [2]\n3. Find the smallest value of $n$ such that $S_n < 0$. [3]"
+  },
+  {
+    "numero": 30,
+    "max_puntacion": 6,
+    "calculator": false,
+    "difficulty": "easy",
+    "enunciado_md": "The first three terms of a geometric sequence are $u_1 = 32$, $u_2 = -16$, $u_3 = 8$.\n\n1. Find the value of the common ratio, $r$. [2]\n2. Find $u_6$. [2]\n3. Find $S_{\\infty}$. [2]"
+  },
+  {
+    "numero": 31,
+    "max_puntacion": 6,
+    "calculator": false,
+    "difficulty": "easy",
+    "enunciado_md": "In an arithmetic sequence, $u_4 = 12$, $u_{11} = -9$.\n\n1. Find the common difference. [2]\n2. Find the first term. [2]\n3. Find the sum of the first $11$ terms in the sequence. [2]"
+  },
+  {
+    "numero": 32,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "Emily deposits $2000$ Australian dollars (AUD) into a bank account. The bank pays a nominal annual interest rate of $4$ %, **compounded monthly**.\n\n1. Find the amount of money that Emily will have in her bank account\n   after $5$ years. Give your answer correct to **two decimal places**.\n   [3]\n\nEmily will withdraw the money back from her bank account when the amount reaches $3000$ AUD.\n\n2. Find the time, **in years and months**, until Emily withdraws the\n   money from her bank account. [3]"
+  },
+  {
+    "numero": 33,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "The Australian Koala Foundation estimates that there are about $45\\hspace{0.15em}000$ koalas left in the wild in $2019$. A year before, in $2018$, the population of koalas was estimated as $50\\hspace{0.15em}000$. Assuming the population of koalas continues to decrease by the same percentage each year, find:\n\n1. the exact population of koalas in $2022$; [3]\n2. the number of years it will take for the koala population to reduce\n   to half of its number in $2018$. [3]"
+  },
+  {
+    "numero": 34,
+    "max_puntacion": 7,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "The first three terms of a geometric sequence are $u_1 = 0.8$, $u_2 = 2.4$, $u_3 = 7.2$.\n\n1. Find the value of the common ratio, $r$. [2]\n2. Find the value of $S_8$. [2]\n3. Find the least value of $n$ such that $S_n > 35\\hspace{0.15em}000$.\n   [3]"
+  },
+  {
+    "numero": 35,
+    "max_puntacion": 5,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "In an arithmetic sequence, the sum of the 2nd and 6th term is $32$. Given that the sum of the first six terms is $120$, determine the first term and common difference of the sequence."
+  },
+  {
+    "numero": 36,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "Ali bought a car for $18000$ \\$. The value of the car depreciates by $10.5$ % each year.\n\n1. Find the value of the car at the end of the first year. [2]\n2. Find the value of the car after $4$ years. [2]\n3. Calculate the number of years it will take for the car to be worth\n   exactly half its original value. [2]"
+  },
+  {
+    "numero": 37,
+    "max_puntacion": 5,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "An arithmetic sequence has first term $45$ and common difference $-1.5$.\n\n1. Given that the $k$th term of the sequence is zero, find the value of\n   $k$. [2]\n\nLet $S_n$ denote the sum of the first $n$ terms of the sequence.\n\n2. Find the maximum value of $S_n$. [3]"
+  },
+  {
+    "numero": 38,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "Landmarks are placed along the road from London to Edinburgh and the distance between each landmark is $16.1$ km. The first landmark placed on the road is $124.7$ km from London, and the last landmark is near Edinburgh. The length of the road from London to Edinburgh is $667.1$ km.\n\n1. Find the distance between the fifth landmark and London. [3]\n2. Determine how many landmarks there are along the road. [3]"
+  },
+  {
+    "numero": 39,
+    "max_puntacion": 7,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "In a geometric sequence, $u_2 = 6$, $u_5 = 20.25$.\n\n1. Find the common ratio, $r$. [2]\n2. Find $u_1$. [2]\n3. Find the greatest value of $n$ such that $u_n < 200$. [3]"
+  },
+  {
+    "numero": 40,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "Greg has saved $2000$ British pounds (GBP) over the last six months. He decided to deposit his savings in a bank which offers a nominal annual interest rate of $\\text{\\(8\\)\\hspace{0.05em}\\%}$, **compounded monthly**, for two years.\n\n1. Calculate the total amount of interest Greg would earn over the two\n   years. Give your answer correct to **two decimal places**.\n   [3]\n\nGreg would earn the same amount of interest, **compounded semi-annually**, for two years if he deposits his savings in a second bank.\n\n2. Calculate the nominal annual interest rate the second bank\n   offers. [3]"
+  },
+  {
+    "numero": 41,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "Peter is playing on a swing during a school lunch break. The height of the first swing was $2$ m and every subsequent swing was $84$ % of the previous one. Peter's friend, Ronald, gives him a push whenever the height falls below $1$ m.\n\n1. Find the height of the third swing. [2]\n2. Find the number of swings before Ronald gives Peter a push.\n   [2]\n3. Calculate the total height of swings if Peter is left to swing until\n   coming\n   to rest. [2]"
+  },
+  {
+    "numero": 42,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "On $1$st of January $2022$, Grace invests $P$ \\$ in an account that pays a nominal annual interest rate of $6$ %, **compounded quarterly**.\n\nThe amount of money in Grace's account **at the end of each year** follows a geometric sequence with common ratio, $\\alpha$.\n\n1. Find the value of $\\alpha$, giving your answer to four significant\n   figures. [3]\n\nGrace makes no further deposits or withdrawals from the account.\n\n2. Find the year in which the amount of money in Grace's\n   account will become **triple** the amount she invested. [3]"
+  },
+  {
+    "numero": 43,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "Let $u_n = 5n-1$, for $n \\in \\mathbb{Z}^+$.\n\n1. 1. Using sigma notation, write down an expression for\n      $u_1 + u_2 + u_3 + \\dots + u_{10}$.\n   2. Find the value of the sum from **part (a) (i)**. [4]\n\nA geometric sequence is defined by $v_n = 5\\times 2^{n-1}$, for $n \\in \\mathbb{Z}^+$.\n\n2. Find the value of the sum of the geometric series $\\displaystyle \\sum_{k = 1}^6 \\hspace{0.1em}v_k$.[2]"
+  },
+  {
+    "numero": 44,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "Consider the sum $\\displaystyle S = \\sum_{k = 4}^l (2k-3)$, where $l$ is a positive integer greater than $4$.\n\n1. Write down the first three terms of the series. [2]\n2. Write down the number of terms in the series. [1]\n3. Given that $S = 725$, find the value of $l$. [3]"
+  },
+  {
+    "numero": 45,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "Jack rides his bike to work each morning. During the first minute, he travels $160$ metres. In each subsequent minute, he travels $80$ % of the distance travelled during the previous minute.\n\nThe distance from his home to work is $750$ metres. Jack leaves his house at $8$:$30$ am and must be at work at $8$:$40$ am.\n\nWill Jack arrive to work on time? Justify your answer."
+  },
+  {
+    "numero": 46,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "An arithmetic progression has a common difference of $d$, where $d \\neq 0$.\n\nThe $7^{\\text{th}}$ term is equal to the $3^{\\text{rd}}$ term squared and the $5^{\\text{th}}$ term is $1$.\n\n1. Find the common difference. [4]\n\n$S_n$ is the sum of the first $n$ terms of the sequence.\n\n2. Find the largest value of $n$ such that $S_n<300$. [2]"
+  },
+  {
+    "numero": 47,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "easy",
+    "enunciado_md": "Sarah walks to school each morning. During the first minute, she travels $130$ $\\text{metres}$. In each subsequent minute, she travels $5$ metres less than the distance she travelled during the previous minute. The distance from her home to school is $950$ metres. Sarah leaves her house at $8$:$00$ am and must be at school by $8$:$10$ am.\n\nWill Sarah arrive to school on time? Justify your answer."
+  },
+  {
+    "numero": 48,
+    "max_puntacion": 6,
+    "calculator": false,
+    "difficulty": "easy",
+    "enunciado_md": "The fourth term of an arithmetic sequence is equal to $13$ and the sum of the first $10$ terms is $55$.\n\n1. Find the common difference and the first term. [4]\n2. Determine the greatest value of $n$ such that the $n$th term is positive. [2]"
+  },
+  {
+    "numero": 49,
+    "max_puntacion": 6,
+    "calculator": false,
+    "difficulty": "medium",
+    "enunciado_md": "The sum of an infinite geometric sequence is $27$. The second term of the sequence is $6$. Find the possible values of $r$."
+  },
+  {
+    "numero": 50,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "medium",
+    "enunciado_md": "The first term and the common ratio of a geometric series are denoted, respectively, by $u_1$ and $r$, where $u_1,r \\in \\mathbb{Q}$. Given that the fourth term is $64$ and the sum to infinity is $625$, find the value of $u_1$ and the value of $r$."
+  },
+  {
+    "numero": 51,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "medium",
+    "enunciado_md": "The sum of the first three terms of a geometric sequence is $92.5$, and the sum of the infinite sequence is $160$. Find the common ratio."
+  },
+  {
+    "numero": 52,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "medium",
+    "enunciado_md": "The seventh term of an arithmetic sequence is equal to $1$ and the sum of the first $16$ terms is $52$.\n\nFind the common difference and the first term."
+  },
+  {
+    "numero": 53,
+    "max_puntacion": 5,
+    "calculator": false,
+    "difficulty": "medium",
+    "enunciado_md": "The third term of an arithmetic sequence is equal to $7$ and the sum of the first $8$ terms is $20$.\n\nFind the common difference and the first term."
+  },
+  {
+    "numero": 54,
+    "max_puntacion": 6,
+    "calculator": false,
+    "difficulty": "medium",
+    "enunciado_md": "The $1$st, $5$th and $13$th terms of an arithmetic sequence, with common difference $d$, $d \\neq 0$, are the first three terms of a geometric sequence, with common ratio $r$, $r \\neq 1$. Given that the $1$st term of both sequences is $12$, find the value of $d$ and the value of $r$."
+  },
+  {
+    "numero": 55,
+    "max_puntacion": 5,
+    "calculator": true,
+    "difficulty": "medium",
+    "enunciado_md": "Consider the real polynomial $f(x)=x^5-5.5x^4-...-604.662$.\n\nThe roots of the polynomial form a geometric sequence with first term $u_1$ and common ratio $r$.\n\nWhere $u_1>0$ and $r<-1$.\n\n1. Find two distinct functions for $u_1$ in terms of $r$. [3]\n2. Hence find $u_1$ and $r$.[2]"
+  },
+  {
+    "numero": 56,
+    "max_puntacion": 8,
+    "calculator": false,
+    "difficulty": "medium",
+    "enunciado_md": "The first three terms of a geometric sequence are $\\ln x^9$, $\\ln x^3$, $\\ln x$, for $x > 0$.\n\n1. Find the common ratio. [3]\n2. Hence, solve $\\displaystyle \\sum_{k=1}^\\infty 3^{3-k}\\ln x = 27$.\n   [5]"
+  },
+  {
+    "numero": 57,
+    "max_puntacion": 7,
+    "calculator": true,
+    "difficulty": "medium",
+    "enunciado_md": "The sides of a square are $8$ cm long. A new square is formed by joining the midpoints of the adjacent sides and two of the resulting triangles are shaded as shown. This process is repeated $5$ more times to form the right hand diagram below.\n\n![AA640](./Sequences & Series_files/AA640.PNG)\n\n1. Find the total area of the shaded region in the right hand diagram\n   above. [4]\n2. Find the total area of the shaded region if the process is repeated\n   indefinitely.[3]"
+  },
+  {
+    "numero": 58,
+    "max_puntacion": 15,
+    "calculator": false,
+    "difficulty": "medium",
+    "enunciado_md": "The first three terms of an infinite geometric sequence are $k-4,\\,\\, 4,\\,\\, k+2$, where $k \\in \\mathbb{Z}$.\n\n1. 1. Write down an expression for the common ratio, $r$.\n   2. Hence show that $k$ satisfies the equation\n      $k^2 - 2k - 24 = 0$.[5]\n2. 1. Find the possible values for $k$.\n   2. Find the possible values for $r$. [5]\n3. The geometric sequence has an infinite sum.\n\n   1. Which value of $r$ leads to this sum. Justify your answer.    2. Find the sum of the sequence. [5]"
+  },
+  {
+    "numero": 59,
+    "max_puntacion": 14,
+    "calculator": true,
+    "difficulty": "medium",
+    "enunciado_md": "Alex and Julie each have a goal of saving $30000$ \\$ to put towards a house deposit. They each have $16000$ \\$ to invest.\n\n1. Alex chooses his local bank and invests his $16000$ \\$\n   in a savings account that offers an interest rate of $5\\%$ per annum\n   compounded **annually**.\n\n   1. Find the value of Alex's investment after $7$ years, to the\n      nearest hundred dollars.\n   2. Alex reaches his goal after n years, where n is an integer.\n      Determine the value of n. [4]\n2. Julie chooses a different bank and invests her\n   $16000$ \\$ in a savings account that offers an\n   interest rate of $r\\%$ per annum compounded **monthly**, where $r$\n   is set to two decimal places.\n\n   Find the minimum value of $r$ needed for Julie to reach her goal\n   after $10$ years. [3]\n3. Xavier also wants to reach a savings goal of\n   $30000$ \\$. He doesn't trust his local bank so he\n   decides to initially put his money into a safety deposit box where it does not\n   earn any interest. His system is to add more money into the safety\n   deposit box at the end of each year. At the end of each year he will add one third of the amount\n   he added at the end of the previous year.\n\n   1. Show that Xavier will never reach his goal if his initial       deposit into the safety deposit box is $16000$ \\$.    2. Find the amount Xavier needs to initially deposit in order to       reach his goal after $7$ years. Give your answer to the nearest       dollar. [7]"
+  },
+  {
+    "numero": 60,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "medium",
+    "enunciado_md": "A bouncy ball is dropped from a height of $2$ metres onto a concrete floor. After hitting the floor, the ball rebounds back up to $80$ % of it's previous height, and this pattern continues on repeatedly, until coming to rest.\n\n1. Show that the total distance travelled by the ball until coming to\n   rest can be expressed by\n\n   $2 + 4(0.8) + 4(0.8)^2 + 4(0.8)^3 + \\cdots$[2]\n2. Find an expression for the total distance travelled by the ball, in\n   terms of the number of bounces, $n$. [2]\n3. Find the total distance travelled by the ball. [2]"
+  },
+  {
+    "numero": 61,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "medium",
+    "enunciado_md": "The sum of the first three terms of a geometric sequence is $81.3$, and the sum of the infinite sequence is $300$. Find the common ratio."
+  },
+  {
+    "numero": 62,
+    "max_puntacion": 5,
+    "calculator": true,
+    "difficulty": "medium",
+    "enunciado_md": "Consider a geometric sequence with common ratio $r$ such that $0 < r < 1$.\n\n1. Show that $u_n - u_{n+1} = u_n(1-r)$.[2]\n\nA geometric sequence has a first term of 150 and a second term of 120.\n\n2. Find the smallest value of $n$ such that $u_n - u_{n+1} < 1$.[3]"
+  },
+  {
+    "numero": 63,
+    "max_puntacion": 13,
+    "calculator": true,
+    "difficulty": "medium",
+    "enunciado_md": "Grant wants to save $40000$ \\$ over 5 years to help his son pay for his college tuition. He deposits $20000$ \\$ into a savings account that has an interest rate of $6\\%$ per annum compounded **monthly** for $5$ years.\n\n1. Show that Grant will not be able to reach his target. [2]\n2. Find the minimum amount, to the nearest dollar, that Grant would\n   need to deposit initially for him to reach his target. [3]\n\nGrant only has $20000$ \\$ to invest, so he asks his sister, Caroline, to help him accelerate the saving process. Caroline is happy to help and offers to contribute part of her income each year. Her annual income is $37500$ \\$ per year. She starts by contributing one fifth of her annual income, and then decreases her contributions by half each year until the target is reached. Caroline's contributions do not yield any interest.\n\n3. Show that Grant and Caroline together can reach the target\n   in 5 years. [4]\n\nGrant and Caroline agree that Caroline should stop contributing once she contributes enough to complement the deficit of Grant's investment.\n\n4. Find the **whole** number of years after which Caroline\n   will stop contributing. [4]"
+  },
+  {
+    "numero": 64,
+    "max_puntacion": 8,
+    "calculator": true,
+    "difficulty": "medium",
+    "enunciado_md": "Let $f(x) = e^{3\\sin \\left(\\frac{\\pi x}{4}\\right)}$, for $x > 0$.\n\nThe $k$th maximum point on the graph of $f$ has $x$-coordinate $x_k$, where $k \\in \\mathbb{Z}^+$.\n\n1. Given that $x_{k+1} = x_k + d$, find $d$. [4]\n2. Hence find the value of $n$ such that\n   $\\displaystyle \\sum_{k=1}^n x_k = 992$. [4]"
+  },
+  {
+    "numero": 65,
+    "max_puntacion": 8,
+    "calculator": true,
+    "difficulty": "medium",
+    "enunciado_md": "It is known that the number of trees in a small forest will decrease by $5$ % each year unless some new trees are planted. At the end of each year, $600$ new trees are planted to the forest. At the start of $2021$, there are $8200$ trees in the forest.\n\n1. Show that there will be roughly $9060$ trees in the forest at the\n   start of $2026$. [4]\n2. Find the approximate number of trees in the forest at the start of\n   $2041$. [4]"
+  },
+  {
+    "numero": 66,
+    "max_puntacion": 18,
+    "calculator": false,
+    "difficulty": "medium",
+    "enunciado_md": "The first three terms of an infinite sequence, in order, are\n\n$2\\ln x,\\,\\, q\\ln x,\\,\\, \\ln \\sqrt{x}\\,\\,\\, \\text{ where $\\ x > 0$.}$\n\nFirst consider the case in which the series is geometric.\n\n1. 1. Find the possible values of $q$.\n   2. Hence or otherwise, show that the series is convergent. [3]\n2. Given that $q>0$ and $S_\\infty=8\\ln{3}$, find the value of $x$. [3]\n\nNow suppose that the series is arithmetic.\n\n3. 1. Show that $q=\\dfrac{5}{4}$.\n   2. Write down the common difference in the form $m\\ln x$, where $m \\in \\mathbb{Q}$. [4]\n4. Given that the sum of the first $n$ terms of the sequence is $\\ln \\sqrt{x^5}$, find the value of $n$. [8]"
+  },
+  {
+    "numero": 67,
+    "max_puntacion": 13,
+    "calculator": false,
+    "difficulty": "medium",
+    "enunciado_md": "1. The following diagram shows [PQ], with length\n   $4$ cm. The line is divided into an infinite\n   number of line segments. The diagram shows the first four\n   segments.\n\n   ![2ecea1f156846207a208a3fc02a1af87be7132ca.svg](./Sequences & Series_files/2ecea1f156846207a208a3fc02a1af87be7132ca.svg)\n\n   The length of the line segments are $m$ cm,    $m^2$ cm, $m^3$ cm,    $\\dots$, where $0 < m < 1$.\n\n   Show that $m = \\dfrac{4}{5}$. [5]\n2. The following diagram shows [RS], with length\n   $l$ cm, where $l > 1$. Squares with side\n   lengths $n$ cm, $n^2$ cm,\n   $n^3$ cm, $\\dots$, where $0 < n < 1$, are\n   drawn along [RS]. This process is carried on indefinitely. The\n   diagram shows the first four squares.\n\n   ![282d818bda418427e2f4b47fb94d3fce3af0ad9c.svg](./Sequences & Series_files/282d818bda418427e2f4b47fb94d3fce3af0ad9c.svg)\n\n   The **total** sum of the areas of all the squares is    $\\dfrac{25}{11}$. Find the value of $l$. [8]"
+  },
+  {
+    "numero": 68,
+    "max_puntacion": 15,
+    "calculator": false,
+    "difficulty": "medium",
+    "enunciado_md": "The arithmetic sequence has the sixth term of $u_6=\\ln{2}$ and the eighth term of $u_8=\\frac{3}{2}\\ln{4}$.\n\n1. 1. Show the common difference is $\\ln2$.\n   2. Find $u_1$.\n   3. Hence, show that the sum of $n$ terms is given by $S_n=\\left(n^2-9n\\right)\\ln {\\sqrt{2}}$. Where $n \\in \\mathbb{Z^+}$. [5]\n\nA new function, $f(x)$, is formed using $S_n$ with the discrete variable $n$ being replaced with the continuous variable $x$, such that $x \\in \\mathbb{R}$. Hence $f(x)=\\left(x^2-9x\\right)\\ln {\\sqrt{2}}$.\n\n2. 1. Write down the equation of the axis of symmetry of $f(x)$.\n   2. Sketch $f(x)$ on the grid below, identify the axis of symmetry and any axis intercepts.\n\n      ![q1037](./Sequences & Series_files/q1037.png)    3. Hence or otherwise, find the minimum value of $S_n$ in the form $a\\ln b$. Where $a,b \\in \\mathbb{Z}$ [5]\n\nConsider the linear function $g(x)=(6-3x)\\ln {\\sqrt 2}$.\n\n3. 1. Solve $f(x)=g(x)$.\n   2. Hence, solve the inequality $f(x)<g(x)$.\n   3. Hence or otherwise, find the range of values of $n$ that satisfy $S_n<g(x)$. [5]"
+  },
+  {
+    "numero": 69,
+    "max_puntacion": 14,
+    "calculator": false,
+    "difficulty": "medium",
+    "enunciado_md": "The first two terms of an infinite geometric sequence, in order, are\n\n$3\\log_3x,\\,\\, 2\\log_3x,\\,\\, \\text{where $x > 0$.}$\n\n1. Find the common ratio, $r$. [2]\n2. Show that the sum of the infinite sequence is $9\\log_3 x$.\n   [3]\n\nThe first three terms of an arithmetic sequence, in order, are\n\n$\\log_3x,\\,\\, \\log_3 \\dfrac{x}{3},\\,\\, \\log_3\\dfrac{x}{9},\\,\\, \\text{where $x > 0$.}$\n\n3. Find the common difference $d$, giving your answer as an\n   integer. [3]\n\nLet $S_6$ be the sum of the first $6$ terms of the arithmetic sequence.\n\n4. Show that $S_6 = 6\\log_3 x - 15$. [3]\n5. Given that $S_6$ is equal to one third of the sum of the\n   infinite geometric\n   sequence, find $x$, giving your answer in the form\n   $a^p$ where $a,p \\in \\mathbb{Z}$.\n   [3]"
+  },
+  {
+    "numero": 70,
+    "max_puntacion": 6,
+    "calculator": true,
+    "difficulty": "medium",
+    "enunciado_md": "Given a sequence of integers, between $20$ and $300$, which are divisible by $9$.\n\n1. Find their sum. [2]\n2. Express this sum using sigma notation. [2]\n\nAn arithmetic sequence has first term $-500$ and common difference of $8$. The sum of the first $n$ terms of this sequence is negative.\n\n3. Find the greatest value of $n$. [2]"
+  },
+  {
+    "numero": 71,
+    "max_puntacion": 15,
+    "calculator": false,
+    "difficulty": "hard",
+    "enunciado_md": "The first two terms of an infinite geometric sequence are $u_1 = 20$ and $u_2 = 16\\sin^2 \\theta$, where $\\text{\\(0 < \\theta < 2\\pi\\)}$, and $\\theta \\neq \\pi$.\n\n1. 1. Find an expression for $r$ in terms of $\\theta$.\n   2. Find the possible values of $r$. [5]\n2. Show that the sum of the infinite sequence is\n   $\\dfrac{100}{3 + 2\\cos 2\\theta}$.\n   [4]\n3. Find the values of $\\theta$ which give the greatest value of the\n   sum. [6]"
+  },
+  {
+    "numero": 72,
+    "max_puntacion": 21,
+    "calculator": true,
+    "difficulty": "hard",
+    "enunciado_md": "Alex and Ben are playing a game with a spinner.\n\n![AA1170_q1 (2)](./Sequences & Series_files/AA1170_q1 (2).JPEG)\n\nThe triangular shaped spinner has three equal sized regions with two regions labelled **LOSE** and one labelled **WIN**.\n\nIn turn $1$ Alex spins the spinner first. If she lands on **WIN** then the game ends and Alex has won in turn $1$.\n\nIf she lands on **LOSE** then Ben spins. If he lands on **WIN** then the game ends and Ben has won in turn $1$.\n\nIf they both land on **LOSE** then the game continues into turn $2$.\n\nThe same process repeats until someone lands on **WIN**. Alex always spins first for each new turn.\n\nLet the turn that the game ends be the discrete random variable $T$. Where $T=1,2,3,4,...$.\n\n1. Show that the probability that Alex wins and $T=2$ is $\\displaystyle\\frac{4}{27}$. [2]\n2. Hence complete the missing values in the first four columns of the probability distribution for $T$ when Alex wins.\n\n![AA1170_table](./Sequences & Series_files/AA1170_table.JPEG)\n\n[2]\n\n3. Show that when Alex wins the values of $\\text{P}(T=t)$ form a geometric sequence. [2]\n4. Justify that as $T \\rightarrow \\infty$ the sequence has a sum. [1]\n5. Hence show that the probability Alex wins the game is $\\displaystyle\\frac{3}{5}$. [2]\n6. Alex and Ben play the same game 10 times.\n\n   The discrete random variable $W$ is the number of times Alex wins.\n\n   1. Determine the probability that $W$ is within one standard deviation of the mean.    2. Determine the probability that $W$ is larger than $\\mathrm{E}(W)$ given $W$ is within one standard deviation of the mean. [7]\n\nAlex and Ben want to keep playing the same game with only one change. They decide to create a new heptagonal spinner.\n\nThe spinner has $7$ equally sized regions.\n\nEach region must be labelled either **WIN** or **LOSE**.\n\nThey want to label the spinner such that the probability of Alex winning the game is $\\frac{7}{10}$.\n\n7. How **many** of the regions should be labeled **WIN**? You must justify your answer. [5]"
+  },
+  {
+    "numero": 73,
+    "max_puntacion": 15,
+    "calculator": true,
+    "difficulty": "hard",
+    "enunciado_md": "Bill takes out a bank loan of $100000$ \\$ to buy a premium electric car, at an annual interest rate of $5.49$%. The interest is calculated at the end of each year and added to the amount outstanding.\n\n1. Find the amount of money Bill would owe the bank after $10$ years.\n   Give your answer to the nearest dollar. [3]\n\nTo pay off the loan, Bill makes quarterly deposits of $P$ \\$ at the end of every quarter in a savings account, paying a nominal annual interest rate of $3.2$%. He makes his first deposit at the end of the first quarter after taking out the loan.\n\n2. Show that the total value of Bill's savings after $10$\n   years is $P\\bigg[\\dfrac{1.008^{40}-1}{1.008-1}\\bigg]$. [3]\n3. Given that Bill's aim is to own the electric car after $10$\n   years, find the value for $P$ to the nearest dollar. [3]\n\nMelinda visits a different bank and makes a single deposit of $Q$ \\$, the annual $\\text{interest}$ rate being $3.5$%.\n\n4. 1. Melinda wishes to withdraw $8000$ \\$ at the end of each year for\n      a period of $n$ years. Show that an expression for the minimum\n      value of $Q$ is\n\n      $\\dfrac{8000}{1.035} + \\dfrac{8000}{1.035^2} + \\dfrac{8000}{1.035^3} + \\cdots + \\dfrac{8000}{1.035^n}.$    2. Hence, or otherwise, find the minimum value of $Q$ that would       permit Melinda to withdraw annual amounts of $8000$ \\$       indefinitely. Give your answer to the nearest dollar.       [6]"
+  },
+  {
+    "numero": 74,
+    "max_puntacion": 28,
+    "calculator": true,
+    "difficulty": "hard",
+    "enunciado_md": "**This question asks you to explore the sequence defined by**\n\n$u_n=\\dfrac{\\sqrt{3}}{6}(\\alpha^n-\\beta^n)$\n\n**where $\\alpha$ and $\\beta$ are the roots of the quadratic equation $x^2-4x+1=0, \\, \\alpha > \\beta$ and $n \\in \\mathbb{Z}^+$.**\n\n1. Find the value of $\\alpha$ and the value of $\\beta$. Give your answers in the form $a \\pm \\sqrt{b}$, where $a,b \\in \\mathbb{Z^+}$.[3]\n2. Hence find the values of $u_1$ and $u_2$. [4]\n3. Show that $\\alpha^2 = 4\\alpha -1$ and $\\beta^2 = 4\\beta - 1$. [1]\n4. Hence show that $u_{n+2} = 4u_{n+1}-u_n$.[4]\n5. Suppose that $u_n$ and $u_{n+1}$ are integers. Show that $u_{n+2}$ is also an integer.[2]\n6. Hence show that $u_n$ is an integer for all $n \\in \\mathbb{Z}^+$.[2]\n\nNow consider the sequence defined by\n\n$v_n = \\dfrac{\\sqrt{3}}{6}\\left(\\alpha^n + \\beta^n\\right).$\n\n7. Find the exact values of $v_1$ and $v_2$.[4]\n8. Express $v_{n+2}$ in terms of $v_{n+1}$ and $v_n$.[4]\n9. Hence show that $v_n$ is a multiple of $\\dfrac{\\sqrt{3}}{3}$ for all $n \\in \\mathbb{Z^+}$.[4]"
+  },
+  {
+    "numero": 75,
+    "max_puntacion": 24,
+    "calculator": true,
+    "difficulty": "hard",
+    "enunciado_md": "**This question asks you to investigate some properties of hexagonal numbers.**\n\nHexagonal numbers can be represented by dots as shown below where $h_n$ denotes the $n$th hexagonal number, $n\\in \\mathbb{N}$.\n\n![b2b46cf7a1e76fe3e94b0c5adbb806ad8bd4f38f.svg](./Sequences & Series_files/b2b46cf7a1e76fe3e94b0c5adbb806ad8bd4f38f.svg)\n\nNote that $6$ points are required to create the regular hexagon $h_2$ with side of length $1$, while $15$ points are required to create the next hexagon $h_3$ with side of length $2$, and so on.\n\n1. Write down the value of $h_5$.[1]\n2. By examining the pattern, show that $h_{n+1} = h_{n}+4n+1$,\n   $n\\in \\mathbb{N}$. [3]\n3. By expressing $h_n$ as a series, show that $h_n = 2n^2-n$,\n   $n\\in \\mathbb{N}$.[3]\n4. Hence, determine whether $2016$ is a hexagonal number.[3]\n5. Find the least hexagonal number which is greater than\n   $80\\hspace{0.10em}000$.[5]\n6. Consider the statement:\n\n   $45$ is the only hexagonal number which is divisible by $9$.\n\n   Show that this statement is false.[2]\n\nMatt claims that given $h_1 = 1$ and $h_{n+1} = h_n + 4n + 1$, $n \\in \\mathbb{N}$, then\n\n$\\begin{aligned} h_n &= 2n^2 - n, \\quad n\\in\\mathbb{N}. \\end{aligned}$\n\n7. Show, by mathematical induction, that Matt's claim is true\n   for all $n\\in \\mathbb{N}$.[7]"
+  },
+  {
+    "numero": 76,
+    "max_puntacion": 14,
+    "calculator": false,
+    "difficulty": "hard",
+    "enunciado_md": "The cubic polynomial equation $x^3 + bx^2 + cx + d = 0$ has three roots $x_1, x_2$ and $x_3$. By expanding the product $(x-x_1)(x-x_2)(x-x_3)$, show that\n\n1. 1. $b = -(x_1+x_2+x_3)$;\n   2. $c = x_1x_2 + x_1x_3 + x_2x_3$;\n   3. $d = -x_1x_2x_3$. [3]\n\nIt is given that $b = -9$ and $c = 45$ for parts (b) and (c) below.\n\n2. 1. In the case that the three roots $x_1, x_2$ and $x_3$ form an\n      arithmetic\n      sequence, show that one of the roots is $3$.\n   2. Hence determine the value of $d$. [5]\n3. In another case the three roots form a geometric sequence.\n   Determine\n   the value of $d$. [6]"
+  }
+]
