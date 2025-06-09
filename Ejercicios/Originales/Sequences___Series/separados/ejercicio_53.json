@@ -1,0 +1,7 @@
+{
+  "numero": 53,
+  "max_puntacion": 5,
+  "calculator": false,
+  "difficulty": "medium",
+  "enunciado_md": "The third term of an arithmetic sequence is equal to $7$ and the sum of the first $8$ terms is $20$.\n\nFind the common difference and the first term."
+}

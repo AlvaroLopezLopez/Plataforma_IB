@@ -1,0 +1,7 @@
+{
+  "numero": 44,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "Consider the sum $\\displaystyle S = \\sum_{k = 4}^l (2k-3)$, where $l$ is a positive integer greater than $4$.\n\n1. Write down the first three terms of the series. [2]\n2. Write down the number of terms in the series. [1]\n3. Given that $S = 725$, find the value of $l$. [3]"
+}

@@ -1,0 +1,7 @@
+{
+  "numero": 10,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "Consider the infinite geometric sequence $9000$, $-7200$, $5760$, $-4608$, ...\n\n1. Find the common ratio. [2]\n2. Find the $25$th term. [2]\n3. Find the **exact** sum of the infinite sequence. [2]"
+}

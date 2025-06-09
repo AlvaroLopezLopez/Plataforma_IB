@@ -1,0 +1,7 @@
+{
+  "numero": 47,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "Sarah walks to school each morning. During the first minute, she travels $130$ $\\text{metres}$. In each subsequent minute, she travels $5$ metres less than the distance she travelled during the previous minute. The distance from her home to school is $950$ metres. Sarah leaves her house at $8$:$00$ am and must be at school by $8$:$10$ am.\n\nWill Sarah arrive to school on time? Justify your answer."
+}

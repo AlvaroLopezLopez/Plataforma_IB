@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Ejercicios Aleatorios</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background: #f0f0f0;
+      font-family: Arial, sans-serif;
+    }
+    #exercise-box {
+      background: #fff;
+      width: 600px;
+      max-width: 90%;
+      padding: 2rem;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      transition: transform 0.5s ease, opacity 0.5s ease;
+    }
+    #exercise-box.hide {
+      opacity: 0;
+      transform: scale(0.95);
+    }
+    #exercise-box.show {
+      opacity: 1;
+      transform: scale(1);
+    }
+    .meta {
+      font-size: 0.9rem;
+      color: #666;
+      margin-bottom: 1rem;
+    }
+    .enunciado {
+      line-height: 1.5;
+    }
+  </style>
+
+  <!-- KaTeX -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/contrib/auto-render.min.js"
+          onload="renderMathInElement(document.body, {
+            delimiters: [
+              {left: '$$', right: '$$', display: true},
+              {left: '$',  right: '$',  display: false}
+            ]
+          });"></script>
+
+  <!-- Marked.js -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+  <div id="exercise-box" class="show">
+    Cargando ejercicios…
+  </div>
+
+  <script>
+    // -------------------------------------------------------------
+    // Ajusta esta constante al nombre de la carpeta de tu HTML,
+    // tal como la creó el script Python (p.ej. 'Sequences__Series')
+    const FOLDER = 'Sequences__Series';
+    // -------------------------------------------------------------
+
+    const url = `Ejercicios/Originales/Sequences__Series/combinado/exercises.json`;
+    let exercises = [];
+    let current   = -1;
+    const box     = document.getElementById('exercise-box');
+
+    // Carga el JSON combinado
+    fetch(url)
+      .then(res => res.json())
+      .then(data => {
+        exercises = data;
+        if (!exercises.length) {
+          box.innerText = 'No hay ejercicios en ' + url;
+          return;
+        }
+        showRandomExercise();
+        setInterval(showRandomExercise, 5000);
+      })
+      .catch(err => {
+        console.error('Error cargando', url, err);
+        box.innerText = 'Error al cargar los ejercicios.';
+      });
+
+    function showRandomExercise() {
+      // Efecto fade-out
+      box.classList.remove('show');
+      box.classList.add('hide');
+
+      setTimeout(() => {
+        // Elige un índice aleatorio distinto al actual
+        let idx;
+        do {
+          idx = Math.floor(Math.random() * exercises.length);
+        } while (idx === current && exercises.length > 1);
+        current = idx;
+        const e = exercises[current];
+
+        // Construye el contenido
+        box.innerHTML = `
+          <div class="meta">
+            <strong>Ejercicio ${e.numero}</strong> |
+            Max: ${e.max_puntacion !== null ? e.max_puntacion : '-'} |
+            Calc: ${e.calculator ? 'Sí' : 'No'} |
+            Dif: ${e.difficulty || '-'}
+          </div>
+          <div class="enunciado">${marked.parse(e.enunciado_md)}</div>
+        `;
+
+        // Renderiza KaTeX en el contenido nuevo
+        renderMathInElement(box, {
+          delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '$',  right: '$',  display: false}
+          ]
+        });
+
+        // Efecto fade-in
+        box.classList.remove('hide');
+        box.classList.add('show');
+      }, 500);
+    }
+  </script>
+</body>
+</html>

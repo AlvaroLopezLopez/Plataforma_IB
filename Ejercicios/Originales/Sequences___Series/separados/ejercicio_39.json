@@ -1,0 +1,7 @@
+{
+  "numero": 39,
+  "max_puntacion": 7,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "In a geometric sequence, $u_2 = 6$, $u_5 = 20.25$.\n\n1. Find the common ratio, $r$. [2]\n2. Find $u_1$. [2]\n3. Find the greatest value of $n$ such that $u_n < 200$. [3]"
+}

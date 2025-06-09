@@ -1,0 +1,7 @@
+{
+  "numero": 27,
+  "max_puntacion": 5,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "Maria invests $25000$ \\$ into a savings account that pays a nominal annual interest rate of $4.25$%, **compounded monthly**.\n\n1. Calculate the amount of money in the savings account after $3$\n   years. [2]\n2. Calculate the number of years it takes for the account to reach\n   $40000$ \\$. [3]"
+}

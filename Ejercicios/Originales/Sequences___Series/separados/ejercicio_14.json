@@ -1,0 +1,7 @@
+{
+  "numero": 14,
+  "max_puntacion": 7,
+  "calculator": false,
+  "difficulty": "easy",
+  "enunciado_md": "An arithmetic sequence is given by $3$, $5$, $7,\\dots$\n\n1. Write down the value of the common difference, $d$. [1]\n2. Find\n\n   1. $u_{10}$;\n   2. $S_{10}$. [4]\n3. Given that $u_n = 253$, find the value of $n$. [2]"
+}

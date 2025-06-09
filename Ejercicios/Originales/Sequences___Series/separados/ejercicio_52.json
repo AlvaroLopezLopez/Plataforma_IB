@@ -1,0 +1,7 @@
+{
+  "numero": 52,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "medium",
+  "enunciado_md": "The seventh term of an arithmetic sequence is equal to $1$ and the sum of the first $16$ terms is $52$.\n\nFind the common difference and the first term."
+}

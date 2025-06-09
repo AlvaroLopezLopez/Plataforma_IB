@@ -1,0 +1,7 @@
+{
+  "numero": 26,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "**In this question give all answers correct to two decimal places.**\n\nMia deposits $4000$ Australian dollars (AUD) into a bank account. The bank pays a nominal annual interest rate of $6$ %, **compounded semi-annually**.\n\n1. Find the amount of **interest** that Mia will earn over the next\n   $2.5$ years. [3]\n\nElla also deposits AUD into a bank account. Her bank pays a nominal annual $\\text{interest}$ rate of $4$ %, **compounded monthly**. In $2.5$ years, the total amount in Ella's account will be $4000$ AUD.\n\n2. Find the amount that Ella deposits in the bank account.\n   [3]"
+}

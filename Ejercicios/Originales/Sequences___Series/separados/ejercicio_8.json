@@ -1,0 +1,7 @@
+{
+  "numero": 8,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "The fifth term, $u_5$, of a geometric sequence is $125$. The sixth term, $u_6$, is $156.25$.\n\n1. Find the common ratio of the sequence. [2]\n2. Find $u_1$, the first term of the sequence. [2]\n3. Calculate the sum of the first $12$ terms of the sequence.\n   [2]"
+}

@@ -1,0 +1,7 @@
+{
+  "numero": 15,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "The fourth term, $u_4$, of a geometric sequence is $135$. The fifth term, $u_5$, is $81$.\n\n1. Find the common ratio of the sequence. [2]\n2. Find $u_1$, the first term of the sequence. [2]\n3. Calculate the sum of the first $20$ terms of the sequence.\n   [2]"
+}

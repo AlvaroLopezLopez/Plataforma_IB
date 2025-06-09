@@ -1,0 +1,7 @@
+{
+  "numero": 23,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "**In this question give all answers correct to the nearest whole number.**\n\nA population of goats on an island starts at $232$. The population is expected to increase by $15$ % each year.\n\n1. Find the expected population size after:\n\n   1. $10$ years;\n   2. $20$ years. [4]\n2. Find the number of years it will take for the population to reach\n   $15\\hspace{0.15em}000$. [2]"
+}

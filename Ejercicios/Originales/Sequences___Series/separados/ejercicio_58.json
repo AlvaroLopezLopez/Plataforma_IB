@@ -1,0 +1,7 @@
+{
+  "numero": 58,
+  "max_puntacion": 15,
+  "calculator": false,
+  "difficulty": "medium",
+  "enunciado_md": "The first three terms of an infinite geometric sequence are $k-4,\\,\\, 4,\\,\\, k+2$, where $k \\in \\mathbb{Z}$.\n\n1. 1. Write down an expression for the common ratio, $r$.\n   2. Hence show that $k$ satisfies the equation\n      $k^2 - 2k - 24 = 0$.[5]\n2. 1. Find the possible values for $k$.\n   2. Find the possible values for $r$. [5]\n3. The geometric sequence has an infinite sum.\n\n   1. Which value of $r$ leads to this sum. Justify your answer.    2. Find the sum of the sequence. [5]"
+}

@@ -1,0 +1,7 @@
+{
+  "numero": 16,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "The fifth term, $u_5$, of an arithmetic sequence is $25$. The eleventh term, $u_{11}$, of the same sequence is $49$.\n\n1. Find $d$, the common difference of the sequence. [2]\n2. Find $u_1$, the first term of the sequence. [2]\n3. Find $S_{100}$, the sum of the first $100$ terms of the sequence.\n   [2]"
+}

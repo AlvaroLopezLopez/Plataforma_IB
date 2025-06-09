@@ -1,0 +1,7 @@
+{
+  "numero": 1,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "An arithmetic sequence has $u_1= 40$, $u_2 = 32$, $u_3 = 24$.\n\n1. Find the common difference, $d$. [2]\n2. Find $u_8$. [2]\n3. Find $S_8$. [2]"
+}

@@ -1,0 +1,7 @@
+{
+  "numero": 68,
+  "max_puntacion": 15,
+  "calculator": false,
+  "difficulty": "medium",
+  "enunciado_md": "The arithmetic sequence has the sixth term of $u_6=\\ln{2}$ and the eighth term of $u_8=\\frac{3}{2}\\ln{4}$.\n\n1. 1. Show the common difference is $\\ln2$.\n   2. Find $u_1$.\n   3. Hence, show that the sum of $n$ terms is given by $S_n=\\left(n^2-9n\\right)\\ln {\\sqrt{2}}$. Where $n \\in \\mathbb{Z^+}$. [5]\n\nA new function, $f(x)$, is formed using $S_n$ with the discrete variable $n$ being replaced with the continuous variable $x$, such that $x \\in \\mathbb{R}$. Hence $f(x)=\\left(x^2-9x\\right)\\ln {\\sqrt{2}}$.\n\n2. 1. Write down the equation of the axis of symmetry of $f(x)$.\n   2. Sketch $f(x)$ on the grid below, identify the axis of symmetry and any axis intercepts.\n\n      ![q1037](./Sequences & Series_files/q1037.png)    3. Hence or otherwise, find the minimum value of $S_n$ in the form $a\\ln b$. Where $a,b \\in \\mathbb{Z}$ [5]\n\nConsider the linear function $g(x)=(6-3x)\\ln {\\sqrt 2}$.\n\n3. 1. Solve $f(x)=g(x)$.\n   2. Hence, solve the inequality $f(x)<g(x)$.\n   3. Hence or otherwise, find the range of values of $n$ that satisfy $S_n<g(x)$. [5]"
+}

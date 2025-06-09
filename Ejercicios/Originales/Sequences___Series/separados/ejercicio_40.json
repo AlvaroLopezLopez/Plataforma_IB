@@ -1,0 +1,7 @@
+{
+  "numero": 40,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "Greg has saved $2000$ British pounds (GBP) over the last six months. He decided to deposit his savings in a bank which offers a nominal annual interest rate of $\\text{\\(8\\)\\hspace{0.05em}\\%}$, **compounded monthly**, for two years.\n\n1. Calculate the total amount of interest Greg would earn over the two\n   years. Give your answer correct to **two decimal places**.\n   [3]\n\nGreg would earn the same amount of interest, **compounded semi-annually**, for two years if he deposits his savings in a second bank.\n\n2. Calculate the nominal annual interest rate the second bank\n   offers. [3]"
+}

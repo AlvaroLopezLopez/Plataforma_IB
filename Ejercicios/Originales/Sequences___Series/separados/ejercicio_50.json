@@ -1,0 +1,7 @@
+{
+  "numero": 50,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "medium",
+  "enunciado_md": "The first term and the common ratio of a geometric series are denoted, respectively, by $u_1$ and $r$, where $u_1,r \\in \\mathbb{Q}$. Given that the fourth term is $64$ and the sum to infinity is $625$, find the value of $u_1$ and the value of $r$."
+}

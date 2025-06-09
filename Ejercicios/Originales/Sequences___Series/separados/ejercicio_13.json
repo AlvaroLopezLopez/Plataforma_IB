@@ -1,0 +1,7 @@
+{
+  "numero": 13,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "A tennis ball bounces on the ground $n$ times. The heights of the bounces, $h_1, h_2, h_3, \\dots,h_n,$ form a geometric sequence. The height that the ball bounces the first time, $h_1$, is $80$ cm, and the second time, $h_2$, is $60$ cm.\n\n1. Find the value of the common ratio for the sequence. [2]\n2. Find the height that the ball bounces the tenth time, $h_{10}$.\n   [2]\n3. Find the **total distance** travelled by the ball during the first\n   six bounces (up and down). Give your answer correct to $2$ decimal\n   places. [2]"
+}

@@ -1,0 +1,7 @@
+{
+  "numero": 43,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "Let $u_n = 5n-1$, for $n \\in \\mathbb{Z}^+$.\n\n1. 1. Using sigma notation, write down an expression for\n      $u_1 + u_2 + u_3 + \\dots + u_{10}$.\n   2. Find the value of the sum from **part (a) (i)**. [4]\n\nA geometric sequence is defined by $v_n = 5\\times 2^{n-1}$, for $n \\in \\mathbb{Z}^+$.\n\n2. Find the value of the sum of the geometric series $\\displaystyle \\sum_{k = 1}^6 \\hspace{0.1em}v_k$.[2]"
+}

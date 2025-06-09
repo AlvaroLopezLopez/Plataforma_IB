@@ -1,0 +1,7 @@
+{
+  "numero": 70,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "medium",
+  "enunciado_md": "Given a sequence of integers, between $20$ and $300$, which are divisible by $9$.\n\n1. Find their sum. [2]\n2. Express this sum using sigma notation. [2]\n\nAn arithmetic sequence has first term $-500$ and common difference of $8$. The sum of the first $n$ terms of this sequence is negative.\n\n3. Find the greatest value of $n$. [2]"
+}

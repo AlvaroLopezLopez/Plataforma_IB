@@ -1,0 +1,7 @@
+{
+  "numero": 67,
+  "max_puntacion": 13,
+  "calculator": false,
+  "difficulty": "medium",
+  "enunciado_md": "1. The following diagram shows [PQ], with length\n   $4$ cm. The line is divided into an infinite\n   number of line segments. The diagram shows the first four\n   segments.\n\n   ![2ecea1f156846207a208a3fc02a1af87be7132ca.svg](./Sequences & Series_files/2ecea1f156846207a208a3fc02a1af87be7132ca.svg)\n\n   The length of the line segments are $m$ cm,    $m^2$ cm, $m^3$ cm,    $\\dots$, where $0 < m < 1$.\n\n   Show that $m = \\dfrac{4}{5}$. [5]\n2. The following diagram shows [RS], with length\n   $l$ cm, where $l > 1$. Squares with side\n   lengths $n$ cm, $n^2$ cm,\n   $n^3$ cm, $\\dots$, where $0 < n < 1$, are\n   drawn along [RS]. This process is carried on indefinitely. The\n   diagram shows the first four squares.\n\n   ![282d818bda418427e2f4b47fb94d3fce3af0ad9c.svg](./Sequences & Series_files/282d818bda418427e2f4b47fb94d3fce3af0ad9c.svg)\n\n   The **total** sum of the areas of all the squares is    $\\dfrac{25}{11}$. Find the value of $l$. [8]"
+}

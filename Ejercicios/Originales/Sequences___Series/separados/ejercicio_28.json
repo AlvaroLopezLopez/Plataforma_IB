@@ -1,0 +1,7 @@
+{
+  "numero": 28,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "On Gary's $50$th birthday, he invests $P$ \\$ in an account that pays a nominal annual interest rate of $5$ %, **compounded monthly**.\n\nThe amount of money in Gary's account **at the end of each year** follows a geometric sequence with common ratio, $\\alpha$.\n\n1. Find the value of $\\alpha$, giving your answer to four significant\n   figures. [3]\n\nGary makes no further deposits or withdrawals from the account.\n\n2. Find the age Gary will be when the amount of money in his\n   account will be **double** the amount he invested. [3]"
+}

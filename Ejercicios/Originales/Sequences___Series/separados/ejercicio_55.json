@@ -1,0 +1,7 @@
+{
+  "numero": 55,
+  "max_puntacion": 5,
+  "calculator": true,
+  "difficulty": "medium",
+  "enunciado_md": "Consider the real polynomial $f(x)=x^5-5.5x^4-...-604.662$.\n\nThe roots of the polynomial form a geometric sequence with first term $u_1$ and common ratio $r$.\n\nWhere $u_1>0$ and $r<-1$.\n\n1. Find two distinct functions for $u_1$ in terms of $r$. [3]\n2. Hence find $u_1$ and $r$.[2]"
+}

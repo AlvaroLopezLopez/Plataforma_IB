@@ -1,0 +1,7 @@
+{
+  "numero": 19,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "Julia wants to buy a house that requires a deposit of $74\\hspace{0.15em}000$ Australian dollars (AUD).\n\nJulia is going to invest an amount of AUD in an account that pays a nominal annual interest rate of $5.5$ %, **compounded monthly**.\n\n1. Find the amount of AUD Julia needs to invest to reach\n   $74\\hspace{0.15em}000$ AUD after $8$ years. Give your answer correct\n   to **the nearest dollar**. [3]\n\nJulia's parents offer to add $5000$ AUD to her initial investment from part (a), however, only if she invests her money in a more reliable bank that pays a nominal annual interest rate only of $3.5$ %, **compounded quarterly**.\n\n2. Find the number of years it would take Julia to save the\n   $74\\hspace{0.15em}000$ AUD if she accepts her parents money and\n   follows their advice. Give your answer correct to **the nearest\n   year**. [3]"
+}

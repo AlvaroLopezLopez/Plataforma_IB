@@ -1,0 +1,7 @@
+{
+  "numero": 48,
+  "max_puntacion": 6,
+  "calculator": false,
+  "difficulty": "easy",
+  "enunciado_md": "The fourth term of an arithmetic sequence is equal to $13$ and the sum of the first $10$ terms is $55$.\n\n1. Find the common difference and the first term. [4]\n2. Determine the greatest value of $n$ such that the $n$th term is positive. [2]"
+}

@@ -1,0 +1,7 @@
+{
+  "numero": 37,
+  "max_puntacion": 5,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "An arithmetic sequence has first term $45$ and common difference $-1.5$.\n\n1. Given that the $k$th term of the sequence is zero, find the value of\n   $k$. [2]\n\nLet $S_n$ denote the sum of the first $n$ terms of the sequence.\n\n2. Find the maximum value of $S_n$. [3]"
+}

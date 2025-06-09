@@ -1,0 +1,7 @@
+{
+  "numero": 63,
+  "max_puntacion": 13,
+  "calculator": true,
+  "difficulty": "medium",
+  "enunciado_md": "Grant wants to save $40000$ \\$ over 5 years to help his son pay for his college tuition. He deposits $20000$ \\$ into a savings account that has an interest rate of $6\\%$ per annum compounded **monthly** for $5$ years.\n\n1. Show that Grant will not be able to reach his target. [2]\n2. Find the minimum amount, to the nearest dollar, that Grant would\n   need to deposit initially for him to reach his target. [3]\n\nGrant only has $20000$ \\$ to invest, so he asks his sister, Caroline, to help him accelerate the saving process. Caroline is happy to help and offers to contribute part of her income each year. Her annual income is $37500$ \\$ per year. She starts by contributing one fifth of her annual income, and then decreases her contributions by half each year until the target is reached. Caroline's contributions do not yield any interest.\n\n3. Show that Grant and Caroline together can reach the target\n   in 5 years. [4]\n\nGrant and Caroline agree that Caroline should stop contributing once she contributes enough to complement the deficit of Grant's investment.\n\n4. Find the **whole** number of years after which Caroline\n   will stop contributing. [4]"
+}

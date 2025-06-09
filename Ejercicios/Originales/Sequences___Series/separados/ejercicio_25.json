@@ -1,0 +1,7 @@
+{
+  "numero": 25,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "In an arithmetic sequence, $u_5 = 24$, $u_{13} = 80$.\n\n1. Find the common difference. [2]\n2. Find the first term. [2]\n3. Find the sum of the first $20$ terms in the sequence. [2]"
+}

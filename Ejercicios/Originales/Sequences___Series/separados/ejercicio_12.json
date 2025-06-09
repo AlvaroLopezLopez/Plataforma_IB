@@ -1,0 +1,7 @@
+{
+  "numero": 12,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "A $3$D printer builds a set of $49$ Ei$\\text{f}$fel Tower Replicas in different sizes. The height of the largest tower in this set is $64$ cm. The heights of successive smaller towers are $95$ % of the preceding larger tower, as shown in the diagram below.\n\n![AA724a](./Sequences & Series_files/AA724a.PNG)\n\n1. Find the height of the smallest tower in this set. [3]\n2. Find the **total** height if all $49$ towers were placed one on top\n   of another. [3]"
+}

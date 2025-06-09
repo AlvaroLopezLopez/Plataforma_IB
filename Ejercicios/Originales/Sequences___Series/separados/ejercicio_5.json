@@ -1,0 +1,7 @@
+{
+  "numero": 5,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "Only one of the following four sequences is arithmetic and only one of them is geometric.\n\n$\\begin{array}{rcccccl} a_n &=& 1,\\,5,\\,10,\\,15,\\,\\dots &\\,\\hspace{4em}\\,& c_n &=& 1.5,\\,3,\\,4.5,\\,6,\\,\\dots \\\\[12pt] b_n &=& \\dfrac{1}{2},\\,\\dfrac{2}{3},\\,\\dfrac{3}{4},\\,\\dfrac{4}{5},\\,\\dots &\\,\\hspace{4em}\\,& d_n &=& 2,\\,1,\\,\\dfrac{1}{2},\\,\\dfrac{1}{4},\\,\\dots \\end{array}$\n\n1. State which sequence is arithmetic and find the common difference of\n   the sequence. [2]\n2. State which sequence is geometric and find the common ratio of the\n   sequence.[2]\n3. For the **geometric** sequence find the **exact** value of the\n   eighth term. Give your answer as a fraction. [2]"
+}

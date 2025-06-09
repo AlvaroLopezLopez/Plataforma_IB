@@ -1,0 +1,7 @@
+{
+  "numero": 36,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "Ali bought a car for $18000$ \\$. The value of the car depreciates by $10.5$ % each year.\n\n1. Find the value of the car at the end of the first year. [2]\n2. Find the value of the car after $4$ years. [2]\n3. Calculate the number of years it will take for the car to be worth\n   exactly half its original value. [2]"
+}

@@ -1,0 +1,7 @@
+{
+  "numero": 69,
+  "max_puntacion": 14,
+  "calculator": false,
+  "difficulty": "medium",
+  "enunciado_md": "The first two terms of an infinite geometric sequence, in order, are\n\n$3\\log_3x,\\,\\, 2\\log_3x,\\,\\, \\text{where $x > 0$.}$\n\n1. Find the common ratio, $r$. [2]\n2. Show that the sum of the infinite sequence is $9\\log_3 x$.\n   [3]\n\nThe first three terms of an arithmetic sequence, in order, are\n\n$\\log_3x,\\,\\, \\log_3 \\dfrac{x}{3},\\,\\, \\log_3\\dfrac{x}{9},\\,\\, \\text{where $x > 0$.}$\n\n3. Find the common difference $d$, giving your answer as an\n   integer. [3]\n\nLet $S_6$ be the sum of the first $6$ terms of the arithmetic sequence.\n\n4. Show that $S_6 = 6\\log_3 x - 15$. [3]\n5. Given that $S_6$ is equal to one third of the sum of the\n   infinite geometric\n   sequence, find $x$, giving your answer in the form\n   $a^p$ where $a,p \\in \\mathbb{Z}$.\n   [3]"
+}

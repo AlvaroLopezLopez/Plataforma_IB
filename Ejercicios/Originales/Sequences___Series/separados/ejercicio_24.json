@@ -1,0 +1,7 @@
+{
+  "numero": 24,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "The first term of an arithmetic sequence is $24$ and the common difference is $16$.\n\n1. Find the value of the $62$nd term of the\n   sequence. [2]\n\nThe first term of a geometric sequence is $8$. The $4$th term of the geometric sequence is equal to the $13$th term of the arithmetic sequence given above.\n\n2. Write down an equation using this information. [2]\n3. Calculate the common ratio of the geometric sequence.\n   [2]"
+}

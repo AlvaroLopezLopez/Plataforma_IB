@@ -1,0 +1,7 @@
+{
+  "numero": 57,
+  "max_puntacion": 7,
+  "calculator": true,
+  "difficulty": "medium",
+  "enunciado_md": "The sides of a square are $8$ cm long. A new square is formed by joining the midpoints of the adjacent sides and two of the resulting triangles are shaded as shown. This process is repeated $5$ more times to form the right hand diagram below.\n\n![AA640](./Sequences & Series_files/AA640.PNG)\n\n1. Find the total area of the shaded region in the right hand diagram\n   above. [4]\n2. Find the total area of the shaded region if the process is repeated\n   indefinitely.[3]"
+}

@@ -1,0 +1,7 @@
+{
+  "numero": 49,
+  "max_puntacion": 6,
+  "calculator": false,
+  "difficulty": "medium",
+  "enunciado_md": "The sum of an infinite geometric sequence is $27$. The second term of the sequence is $6$. Find the possible values of $r$."
+}

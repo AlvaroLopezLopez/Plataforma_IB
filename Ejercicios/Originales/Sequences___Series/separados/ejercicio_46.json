@@ -1,0 +1,7 @@
+{
+  "numero": 46,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "An arithmetic progression has a common difference of $d$, where $d \\neq 0$.\n\nThe $7^{\\text{th}}$ term is equal to the $3^{\\text{rd}}$ term squared and the $5^{\\text{th}}$ term is $1$.\n\n1. Find the common difference. [4]\n\n$S_n$ is the sum of the first $n$ terms of the sequence.\n\n2. Find the largest value of $n$ such that $S_n<300$. [2]"
+}

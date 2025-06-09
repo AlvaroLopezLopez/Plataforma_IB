@@ -1,0 +1,7 @@
+{
+  "numero": 76,
+  "max_puntacion": 14,
+  "calculator": false,
+  "difficulty": "hard",
+  "enunciado_md": "The cubic polynomial equation $x^3 + bx^2 + cx + d = 0$ has three roots $x_1, x_2$ and $x_3$. By expanding the product $(x-x_1)(x-x_2)(x-x_3)$, show that\n\n1. 1. $b = -(x_1+x_2+x_3)$;\n   2. $c = x_1x_2 + x_1x_3 + x_2x_3$;\n   3. $d = -x_1x_2x_3$. [3]\n\nIt is given that $b = -9$ and $c = 45$ for parts (b) and (c) below.\n\n2. 1. In the case that the three roots $x_1, x_2$ and $x_3$ form an\n      arithmetic\n      sequence, show that one of the roots is $3$.\n   2. Hence determine the value of $d$. [5]\n3. In another case the three roots form a geometric sequence.\n   Determine\n   the value of $d$. [6]"
+}

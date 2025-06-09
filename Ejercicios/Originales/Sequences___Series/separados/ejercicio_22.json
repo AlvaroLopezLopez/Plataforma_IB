@@ -1,0 +1,7 @@
+{
+  "numero": 22,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "On $1$st of January $2021$, Fiona decides to take out a bank loan to purchase a new Tesla electric car. Fiona takes out a loan of $P$ \\$ with a bank that offers a nominal annual interest rate of $2.6\\hspace{0.05em}\\%$, **compounded monthly**.\n\nThe size of Fiona's loan **at the end of each year** follows a geometric sequence with common ratio, $\\alpha$.\n\n1. Find the value of $\\alpha$, giving your answer to five significant\n   figures. [3]\n\nThe bank lets the size of Fiona's loan increase until it becomes **triple** the size of the original loan. Once this happens, the bank demands that Fiona pays the entire amount back to close the loan.\n\n2. Find the year during which Fiona will need to pay back the\n   loan. [3]"
+}

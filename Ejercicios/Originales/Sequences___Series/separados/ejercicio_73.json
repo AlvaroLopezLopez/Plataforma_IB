@@ -1,0 +1,7 @@
+{
+  "numero": 73,
+  "max_puntacion": 15,
+  "calculator": true,
+  "difficulty": "hard",
+  "enunciado_md": "Bill takes out a bank loan of $100000$ \\$ to buy a premium electric car, at an annual interest rate of $5.49$%. The interest is calculated at the end of each year and added to the amount outstanding.\n\n1. Find the amount of money Bill would owe the bank after $10$ years.\n   Give your answer to the nearest dollar. [3]\n\nTo pay off the loan, Bill makes quarterly deposits of $P$ \\$ at the end of every quarter in a savings account, paying a nominal annual interest rate of $3.2$%. He makes his first deposit at the end of the first quarter after taking out the loan.\n\n2. Show that the total value of Bill's savings after $10$\n   years is $P\\bigg[\\dfrac{1.008^{40}-1}{1.008-1}\\bigg]$. [3]\n3. Given that Bill's aim is to own the electric car after $10$\n   years, find the value for $P$ to the nearest dollar. [3]\n\nMelinda visits a different bank and makes a single deposit of $Q$ \\$, the annual $\\text{interest}$ rate being $3.5$%.\n\n4. 1. Melinda wishes to withdraw $8000$ \\$ at the end of each year for\n      a period of $n$ years. Show that an expression for the minimum\n      value of $Q$ is\n\n      $\\dfrac{8000}{1.035} + \\dfrac{8000}{1.035^2} + \\dfrac{8000}{1.035^3} + \\cdots + \\dfrac{8000}{1.035^n}.$    2. Hence, or otherwise, find the minimum value of $Q$ that would       permit Melinda to withdraw annual amounts of $8000$ \\$       indefinitely. Give your answer to the nearest dollar.       [6]"
+}

@@ -1,0 +1,7 @@
+{
+  "numero": 60,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "medium",
+  "enunciado_md": "A bouncy ball is dropped from a height of $2$ metres onto a concrete floor. After hitting the floor, the ball rebounds back up to $80$ % of it's previous height, and this pattern continues on repeatedly, until coming to rest.\n\n1. Show that the total distance travelled by the ball until coming to\n   rest can be expressed by\n\n   $2 + 4(0.8) + 4(0.8)^2 + 4(0.8)^3 + \\cdots$[2]\n2. Find an expression for the total distance travelled by the ball, in\n   terms of the number of bounces, $n$. [2]\n3. Find the total distance travelled by the ball. [2]"
+}

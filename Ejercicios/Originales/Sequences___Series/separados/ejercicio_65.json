@@ -1,0 +1,7 @@
+{
+  "numero": 65,
+  "max_puntacion": 8,
+  "calculator": true,
+  "difficulty": "medium",
+  "enunciado_md": "It is known that the number of trees in a small forest will decrease by $5$ % each year unless some new trees are planted. At the end of each year, $600$ new trees are planted to the forest. At the start of $2021$, there are $8200$ trees in the forest.\n\n1. Show that there will be roughly $9060$ trees in the forest at the\n   start of $2026$. [4]\n2. Find the approximate number of trees in the forest at the start of\n   $2041$. [4]"
+}

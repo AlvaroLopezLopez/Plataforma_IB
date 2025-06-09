@@ -1,0 +1,7 @@
+{
+  "numero": 56,
+  "max_puntacion": 8,
+  "calculator": false,
+  "difficulty": "medium",
+  "enunciado_md": "The first three terms of a geometric sequence are $\\ln x^9$, $\\ln x^3$, $\\ln x$, for $x > 0$.\n\n1. Find the common ratio. [3]\n2. Hence, solve $\\displaystyle \\sum_{k=1}^\\infty 3^{3-k}\\ln x = 27$.\n   [5]"
+}

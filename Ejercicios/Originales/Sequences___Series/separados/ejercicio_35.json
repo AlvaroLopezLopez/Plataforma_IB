@@ -1,0 +1,7 @@
+{
+  "numero": 35,
+  "max_puntacion": 5,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "In an arithmetic sequence, the sum of the 2nd and 6th term is $32$. Given that the sum of the first six terms is $120$, determine the first term and common difference of the sequence."
+}

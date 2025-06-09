@@ -1,0 +1,7 @@
+{
+  "numero": 66,
+  "max_puntacion": 18,
+  "calculator": false,
+  "difficulty": "medium",
+  "enunciado_md": "The first three terms of an infinite sequence, in order, are\n\n$2\\ln x,\\,\\, q\\ln x,\\,\\, \\ln \\sqrt{x}\\,\\,\\, \\text{ where $\\ x > 0$.}$\n\nFirst consider the case in which the series is geometric.\n\n1. 1. Find the possible values of $q$.\n   2. Hence or otherwise, show that the series is convergent. [3]\n2. Given that $q>0$ and $S_\\infty=8\\ln{3}$, find the value of $x$. [3]\n\nNow suppose that the series is arithmetic.\n\n3. 1. Show that $q=\\dfrac{5}{4}$.\n   2. Write down the common difference in the form $m\\ln x$, where $m \\in \\mathbb{Q}$. [4]\n4. Given that the sum of the first $n$ terms of the sequence is $\\ln \\sqrt{x^5}$, find the value of $n$. [8]"
+}

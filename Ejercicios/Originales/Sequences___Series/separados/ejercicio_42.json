@@ -1,0 +1,7 @@
+{
+  "numero": 42,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "On $1$st of January $2022$, Grace invests $P$ \\$ in an account that pays a nominal annual interest rate of $6$ %, **compounded quarterly**.\n\nThe amount of money in Grace's account **at the end of each year** follows a geometric sequence with common ratio, $\\alpha$.\n\n1. Find the value of $\\alpha$, giving your answer to four significant\n   figures. [3]\n\nGrace makes no further deposits or withdrawals from the account.\n\n2. Find the year in which the amount of money in Grace's\n   account will become **triple** the amount she invested. [3]"
+}

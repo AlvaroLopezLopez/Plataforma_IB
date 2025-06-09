@@ -1,0 +1,7 @@
+{
+  "numero": 6,
+  "max_puntacion": 4,
+  "calculator": false,
+  "difficulty": "easy",
+  "enunciado_md": "A geometric series has a common ratio of $3^x$.\n\n1. State the domain of $x$ such that the sum to infinity of the series exists. [2]\n2. sum to infinity of the series is found to be $54$. If the first term of the series is $52$, find $x$. [2]"
+}

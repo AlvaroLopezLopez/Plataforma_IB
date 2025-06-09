@@ -1,0 +1,7 @@
+{
+  "numero": 54,
+  "max_puntacion": 6,
+  "calculator": false,
+  "difficulty": "medium",
+  "enunciado_md": "The $1$st, $5$th and $13$th terms of an arithmetic sequence, with common difference $d$, $d \\neq 0$, are the first three terms of a geometric sequence, with common ratio $r$, $r \\neq 1$. Given that the $1$st term of both sequences is $12$, find the value of $d$ and the value of $r$."
+}

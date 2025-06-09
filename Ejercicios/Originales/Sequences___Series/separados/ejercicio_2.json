@@ -1,0 +1,7 @@
+{
+  "numero": 2,
+  "max_puntacion": 6,
+  "calculator": false,
+  "difficulty": "easy",
+  "enunciado_md": "Consider a geometric sequence with $a_1 = 8$ and $a_4=1$.\n\n1. Find the common ratio, $r$.[2]\n\nConsider the following probability function for a random variable $X$:\n\n![table](./Sequences & Series_files/table.png)\n\n2. Find the value of $k$.[4]"
+}

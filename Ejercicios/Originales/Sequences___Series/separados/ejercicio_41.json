@@ -1,0 +1,7 @@
+{
+  "numero": 41,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "Peter is playing on a swing during a school lunch break. The height of the first swing was $2$ m and every subsequent swing was $84$ % of the previous one. Peter's friend, Ronald, gives him a push whenever the height falls below $1$ m.\n\n1. Find the height of the third swing. [2]\n2. Find the number of swings before Ronald gives Peter a push.\n   [2]\n3. Calculate the total height of swings if Peter is left to swing until\n   coming\n   to rest. [2]"
+}

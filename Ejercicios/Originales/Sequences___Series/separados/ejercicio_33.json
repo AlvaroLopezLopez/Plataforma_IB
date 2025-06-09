@@ -1,0 +1,7 @@
+{
+  "numero": 33,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "The Australian Koala Foundation estimates that there are about $45\\hspace{0.15em}000$ koalas left in the wild in $2019$. A year before, in $2018$, the population of koalas was estimated as $50\\hspace{0.15em}000$. Assuming the population of koalas continues to decrease by the same percentage each year, find:\n\n1. the exact population of koalas in $2022$; [3]\n2. the number of years it will take for the koala population to reduce\n   to half of its number in $2018$. [3]"
+}

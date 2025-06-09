@@ -1,0 +1,7 @@
+{
+  "numero": 62,
+  "max_puntacion": 5,
+  "calculator": true,
+  "difficulty": "medium",
+  "enunciado_md": "Consider a geometric sequence with common ratio $r$ such that $0 < r < 1$.\n\n1. Show that $u_n - u_{n+1} = u_n(1-r)$.[2]\n\nA geometric sequence has a first term of 150 and a second term of 120.\n\n2. Find the smallest value of $n$ such that $u_n - u_{n+1} < 1$.[3]"
+}

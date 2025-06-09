@@ -1,0 +1,7 @@
+{
+  "numero": 32,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "Emily deposits $2000$ Australian dollars (AUD) into a bank account. The bank pays a nominal annual interest rate of $4$ %, **compounded monthly**.\n\n1. Find the amount of money that Emily will have in her bank account\n   after $5$ years. Give your answer correct to **two decimal places**.\n   [3]\n\nEmily will withdraw the money back from her bank account when the amount reaches $3000$ AUD.\n\n2. Find the time, **in years and months**, until Emily withdraws the\n   money from her bank account. [3]"
+}

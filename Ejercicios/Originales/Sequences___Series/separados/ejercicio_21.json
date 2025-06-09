@@ -1,0 +1,7 @@
+{
+  "numero": 21,
+  "max_puntacion": 6,
+  "calculator": false,
+  "difficulty": "easy",
+  "enunciado_md": "Consider the following sequence of figures.\n\n![AA008](./Sequences & Series_files/AA008.PNG)\n\nFigure 1 contains $6$ line segments.\n\n1. Given that Figure $n$ contains $101$ line segments, show that\n   $n = 20$.[3]\n2. Find the total number of line segments in the first $20$ figures.\n   [3]"
+}

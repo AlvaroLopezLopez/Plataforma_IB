@@ -1,0 +1,7 @@
+{
+  "numero": 29,
+  "max_puntacion": 7,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "In an arithmetic sequence, the third term is $41$ and the ninth term is $23$.\n\n1. Find the common difference. [2]\n2. Find the first term. [2]\n3. Find the smallest value of $n$ such that $S_n < 0$. [3]"
+}

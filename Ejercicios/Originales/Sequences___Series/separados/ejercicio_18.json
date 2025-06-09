@@ -1,0 +1,7 @@
+{
+  "numero": 18,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "The third term, $u_3$, of an arithmetic sequence is $7$. The common difference of the sequence, $d$, is $3$.\n\n1. Find $u_1$, the first term of the sequence. [2]\n2. Find $u_{60}$, the $60$th term of sequence. [2]\n\nThe first and fourth terms of this arithmetic sequence are the first two terms of a geometric sequence.\n\n3. Calculate the sixth term of the **geometric** sequence.\n   [2]"
+}

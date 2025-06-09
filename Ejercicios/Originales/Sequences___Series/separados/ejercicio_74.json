@@ -1,0 +1,7 @@
+{
+  "numero": 74,
+  "max_puntacion": 28,
+  "calculator": true,
+  "difficulty": "hard",
+  "enunciado_md": "**This question asks you to explore the sequence defined by**\n\n$u_n=\\dfrac{\\sqrt{3}}{6}(\\alpha^n-\\beta^n)$\n\n**where $\\alpha$ and $\\beta$ are the roots of the quadratic equation $x^2-4x+1=0, \\, \\alpha > \\beta$ and $n \\in \\mathbb{Z}^+$.**\n\n1. Find the value of $\\alpha$ and the value of $\\beta$. Give your answers in the form $a \\pm \\sqrt{b}$, where $a,b \\in \\mathbb{Z^+}$.[3]\n2. Hence find the values of $u_1$ and $u_2$. [4]\n3. Show that $\\alpha^2 = 4\\alpha -1$ and $\\beta^2 = 4\\beta - 1$. [1]\n4. Hence show that $u_{n+2} = 4u_{n+1}-u_n$.[4]\n5. Suppose that $u_n$ and $u_{n+1}$ are integers. Show that $u_{n+2}$ is also an integer.[2]\n6. Hence show that $u_n$ is an integer for all $n \\in \\mathbb{Z}^+$.[2]\n\nNow consider the sequence defined by\n\n$v_n = \\dfrac{\\sqrt{3}}{6}\\left(\\alpha^n + \\beta^n\\right).$\n\n7. Find the exact values of $v_1$ and $v_2$.[4]\n8. Express $v_{n+2}$ in terms of $v_{n+1}$ and $v_n$.[4]\n9. Hence show that $v_n$ is a multiple of $\\dfrac{\\sqrt{3}}{3}$ for all $n \\in \\mathbb{Z^+}$.[4]"
+}

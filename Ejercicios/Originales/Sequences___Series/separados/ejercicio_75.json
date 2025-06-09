@@ -1,0 +1,7 @@
+{
+  "numero": 75,
+  "max_puntacion": 24,
+  "calculator": true,
+  "difficulty": "hard",
+  "enunciado_md": "**This question asks you to investigate some properties of hexagonal numbers.**\n\nHexagonal numbers can be represented by dots as shown below where $h_n$ denotes the $n$th hexagonal number, $n\\in \\mathbb{N}$.\n\n![b2b46cf7a1e76fe3e94b0c5adbb806ad8bd4f38f.svg](./Sequences & Series_files/b2b46cf7a1e76fe3e94b0c5adbb806ad8bd4f38f.svg)\n\nNote that $6$ points are required to create the regular hexagon $h_2$ with side of length $1$, while $15$ points are required to create the next hexagon $h_3$ with side of length $2$, and so on.\n\n1. Write down the value of $h_5$.[1]\n2. By examining the pattern, show that $h_{n+1} = h_{n}+4n+1$,\n   $n\\in \\mathbb{N}$. [3]\n3. By expressing $h_n$ as a series, show that $h_n = 2n^2-n$,\n   $n\\in \\mathbb{N}$.[3]\n4. Hence, determine whether $2016$ is a hexagonal number.[3]\n5. Find the least hexagonal number which is greater than\n   $80\\hspace{0.10em}000$.[5]\n6. Consider the statement:\n\n   $45$ is the only hexagonal number which is divisible by $9$.\n\n   Show that this statement is false.[2]\n\nMatt claims that given $h_1 = 1$ and $h_{n+1} = h_n + 4n + 1$, $n \\in \\mathbb{N}$, then\n\n$\\begin{aligned} h_n &= 2n^2 - n, \\quad n\\in\\mathbb{N}. \\end{aligned}$\n\n7. Show, by mathematical induction, that Matt's claim is true\n   for all $n\\in \\mathbb{N}$.[7]"
+}

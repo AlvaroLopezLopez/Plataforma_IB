@@ -1,0 +1,7 @@
+{
+  "numero": 3,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "Jeremy invests $8000$ \\$ into a savings account that pays an annual interest rate of $5.5$ %, **compounded annually**.\n\n1. Write down a formula which calculates that total value of the\n   investment after $n$ years. [2]\n2. Calculate the amount of money in the savings account after:\n\n   1. $1$ year;\n   2. $3$ years. [2]\n3. Jeremy wants to use the money to put down a $10000$ \\$\n   deposit on an apartment. Determine if Jeremy will be able to do this\n   within a $5$-year timeframe.[2]"
+}

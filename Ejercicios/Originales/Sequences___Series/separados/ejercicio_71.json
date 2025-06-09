@@ -1,0 +1,7 @@
+{
+  "numero": 71,
+  "max_puntacion": 15,
+  "calculator": false,
+  "difficulty": "hard",
+  "enunciado_md": "The first two terms of an infinite geometric sequence are $u_1 = 20$ and $u_2 = 16\\sin^2 \\theta$, where $\\text{\\(0 < \\theta < 2\\pi\\)}$, and $\\theta \\neq \\pi$.\n\n1. 1. Find an expression for $r$ in terms of $\\theta$.\n   2. Find the possible values of $r$. [5]\n2. Show that the sum of the infinite sequence is\n   $\\dfrac{100}{3 + 2\\cos 2\\theta}$.\n   [4]\n3. Find the values of $\\theta$ which give the greatest value of the\n   sum. [6]"
+}

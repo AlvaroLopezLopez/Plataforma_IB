@@ -1,0 +1,7 @@
+{
+  "numero": 64,
+  "max_puntacion": 8,
+  "calculator": true,
+  "difficulty": "medium",
+  "enunciado_md": "Let $f(x) = e^{3\\sin \\left(\\frac{\\pi x}{4}\\right)}$, for $x > 0$.\n\nThe $k$th maximum point on the graph of $f$ has $x$-coordinate $x_k$, where $k \\in \\mathbb{Z}^+$.\n\n1. Given that $x_{k+1} = x_k + d$, find $d$. [4]\n2. Hence find the value of $n$ such that\n   $\\displaystyle \\sum_{k=1}^n x_k = 992$. [4]"
+}

@@ -1,0 +1,7 @@
+{
+  "numero": 17,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "The table shows the first four terms of three sequences: $u_n$, $v_n$, and $w_n$.\n\n![c39694c1cf7513ffce115791e6b0f1c54c230963.svg](./Sequences & Series_files/c39694c1cf7513ffce115791e6b0f1c54c230963.svg)\n\n1. State which sequence is\n\n   1. arithmetic;\n   2. geometric. [2]\n2. Find the sum of the first $50$ terms of the arithmetic sequence.\n   [2]\n3. Find the exact value of the $13$th term of the geometric sequence.\n   [2]"
+}

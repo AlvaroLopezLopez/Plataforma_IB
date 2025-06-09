@@ -1,0 +1,7 @@
+{
+  "numero": 11,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "Consider the infinite geometric sequence $4480$, $-3360$, $2520$, $-1890,\\dots$\n\n1. Find the common ratio, $r$. [2]\n2. Find the $20$th term. [2]\n3. Find the **exact** sum of the infinite sequence. [2]"
+}

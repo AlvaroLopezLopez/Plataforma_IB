@@ -1,0 +1,7 @@
+{
+  "numero": 61,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "medium",
+  "enunciado_md": "The sum of the first three terms of a geometric sequence is $81.3$, and the sum of the infinite sequence is $300$. Find the common ratio."
+}

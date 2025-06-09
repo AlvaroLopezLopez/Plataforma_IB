@@ -1,0 +1,7 @@
+{
+  "numero": 34,
+  "max_puntacion": 7,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "The first three terms of a geometric sequence are $u_1 = 0.8$, $u_2 = 2.4$, $u_3 = 7.2$.\n\n1. Find the value of the common ratio, $r$. [2]\n2. Find the value of $S_8$. [2]\n3. Find the least value of $n$ such that $S_n > 35\\hspace{0.15em}000$.\n   [3]"
+}

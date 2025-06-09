@@ -1,0 +1,7 @@
+{
+  "numero": 30,
+  "max_puntacion": 6,
+  "calculator": false,
+  "difficulty": "easy",
+  "enunciado_md": "The first three terms of a geometric sequence are $u_1 = 32$, $u_2 = -16$, $u_3 = 8$.\n\n1. Find the value of the common ratio, $r$. [2]\n2. Find $u_6$. [2]\n3. Find $S_{\\infty}$. [2]"
+}

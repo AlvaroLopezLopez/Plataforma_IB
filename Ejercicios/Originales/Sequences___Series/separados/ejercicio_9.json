@@ -1,0 +1,7 @@
+{
+  "numero": 9,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "Hannah buys a car for $24900$ \\$. The value of the car depreciates by $16$ % each year.\n\n1. Find the value of the car after $10$ years. [3]\n\nPatrick buys a car for $12000$ \\$. The car depreciates by a fixed percentage each year, and after $6$ years it is worth $6200$ \\$.\n\n2. Find the annual rate of depreciation of the car.\n   [3]"
+}

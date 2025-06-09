@@ -1,0 +1,7 @@
+{
+  "numero": 45,
+  "max_puntacion": 6,
+  "calculator": true,
+  "difficulty": "easy",
+  "enunciado_md": "Jack rides his bike to work each morning. During the first minute, he travels $160$ metres. In each subsequent minute, he travels $80$ % of the distance travelled during the previous minute.\n\nThe distance from his home to work is $750$ metres. Jack leaves his house at $8$:$30$ am and must be at work at $8$:$40$ am.\n\nWill Jack arrive to work on time? Justify your answer."
+}
